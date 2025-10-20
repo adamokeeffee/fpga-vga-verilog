@@ -5,9 +5,9 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
+Welcome to my fpga vga project this will be the blog of where i document everything that i do during my System on chip design Module Project
 
-I am adding a test sentence here at 13:24 on 03/12/24.
+Last worked on 17:04 on 20/10/25.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
